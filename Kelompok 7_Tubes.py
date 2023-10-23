@@ -1,5 +1,6 @@
-# Kelompok 7 / Program Sistem Pemesanan Makanan dan Minuman
-# Kelas K-23 Mata Kuliah Pengenalan Komputasi (KU1202)
+# Mata Kuliah Pengenalan Komputasi (KU1202)
+# Program Sistem Pemesanan Makanan dan Minuman
+# Kelas K-23 / Kelompok 7
 # Anggota:
 # 1. Shannon Aurellius Anastasya Lie / 19623105
 # 2. Nawaf Amjad Rizqi Aldaha Ismail / 19623217
